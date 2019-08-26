@@ -1,0 +1,6 @@
+{
+  "name": "leaflet-mouse-position",
+  "version": "0.0.0",
+  "description": "Leaflet mouse position",
+  "main": "src/L.Control.MousePosition.js"
+}
